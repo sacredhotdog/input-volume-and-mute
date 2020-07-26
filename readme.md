@@ -9,6 +9,13 @@ A simple volume control based on a rotary encoder - turn to increase / decrease 
 - Windows 10 PC
 
 
+#### Arduino Libaries
+- Built-in: Encoder v1.4.1 ([https://github.com/PaulStoffregen/Encoder](https://github.com/PaulStoffregen/Encoder) and 
+[https://www.pjrc.com/teensy/td_libs_Encoder.html](https://www.pjrc.com/teensy/td_libs_Encoder.html))
+- Built-in: Debouncer v0.1.0 ([https://github.com/hideakitai/Debouncer](https://github.com/hideakitai/Debouncer))
+- Built-in: HID-Project v2.6.1 ([https://github.com/NicoHood/HID](https://github.com/NicoHood/HID))
+
+
 #### Wiring
 The pin-out of the encoder seems to have arbitrary labels in the form of `CLK` and `DT` - these seem to have no bearing 
 on behaviour and have been ignored so far.
