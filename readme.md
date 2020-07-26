@@ -29,7 +29,7 @@ on behaviour and have been ignored so far.
 
 
 #### Notes
-This was based on combination of [https://blog.prusaprinters.org/3d-print-an-oversized-media-control-volume-knob-arduino-basics_30184/](https://blog.prusaprinters.org/3d-print-an-oversized-media-control-volume-knob-arduino-basics_30184/) 
+This was based on combination of [https://blog.prusaprinters.org/3d-print-an-oversized-media-control-volume-knob-arduino-basics_30184/](https://blog.prusaprinters.org/3d-print-an-oversized-media-control-volume-knob-arduino-basics_30184/) (sample code [here](docs/oversized_volume_knob.ino)) 
 and [https://hackaday.io/project/165285-webtuner](https://hackaday.io/project/165285-webtuner) (source code [here](https://github.com/tachiniererin/webtuner)).
 
 The first implementation used the Prusa article approach of pins `A0`, `A1`, and `A2` - this resulted in odd behaviour 
